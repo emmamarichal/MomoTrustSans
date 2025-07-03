@@ -2,7 +2,7 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-"ČĎĚŇŘŠŤŽ̌čěňřšž"
+"ĢĶĻŅȘȚģķ̦lļņșț"
 );
 axes = (
 {
@@ -4805,7 +4805,7 @@ unicode = 286;
 },
 {
 glyphname = Gcommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -4840,7 +4840,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (286,-90);
+pos = (300,-90);
 ref = commaaccentcomb;
 }
 );
@@ -6283,7 +6283,7 @@ unicode = 317;
 },
 {
 glyphname = Lcommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -6318,7 +6318,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (176,-90);
+pos = (190,-90);
 ref = commaaccentcomb;
 }
 );
@@ -6968,7 +6968,7 @@ unicode = 327;
 },
 {
 glyphname = Ncommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -7003,7 +7003,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (261,-90);
+pos = (275,-90);
 ref = commaaccentcomb;
 }
 );
@@ -9880,7 +9880,7 @@ unicode = 350;
 },
 {
 glyphname = Scommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -9915,7 +9915,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (218,-90);
+pos = (232,-90);
 ref = commaaccentcomb;
 }
 );
@@ -10236,7 +10236,7 @@ unicode = 356;
 },
 {
 glyphname = Tcommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -10271,7 +10271,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (182,-90);
+pos = (196,-90);
 ref = commaaccentcomb;
 }
 );
@@ -17433,7 +17433,7 @@ unicode = 287;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -17468,7 +17468,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (192,-270);
+pos = (206,-270);
 ref = commaaccentcomb;
 }
 );
@@ -19177,7 +19177,7 @@ KernOnName = k;
 },
 {
 glyphname = kcommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:49 +0000";
 layers = (
 {
 layerId = m002;
@@ -19199,7 +19199,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (129,-90);
+pos = (166,-90);
 ref = commaaccentcomb;
 }
 );
@@ -19212,7 +19212,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (118,-90);
+pos = (168,-90);
 ref = commaaccentcomb;
 }
 );
@@ -19417,7 +19417,7 @@ unicode = 318;
 },
 {
 glyphname = lcommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:39 +0000";
 layers = (
 {
 layerId = m002;
@@ -19439,7 +19439,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (7,-90);
+pos = (67,-90);
 ref = commaaccentcomb;
 }
 );
@@ -19452,7 +19452,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (2,-90);
+pos = (62,-90);
 ref = commaaccentcomb;
 }
 );
@@ -22364,7 +22364,7 @@ unicode = 328;
 },
 {
 glyphname = ncommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -22399,7 +22399,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (181,-90);
+pos = (195,-90);
 ref = commaaccentcomb;
 }
 );
@@ -25579,7 +25579,7 @@ unicode = 351;
 },
 {
 glyphname = scommaaccent;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -25614,7 +25614,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (119,-90);
+pos = (133,-90);
 ref = commaaccentcomb;
 }
 );
@@ -41653,7 +41653,7 @@ R = NoKerning;
 },
 {
 glyphname = commaaccentcomb;
-lastChange = "2025-03-16 19:01:28 +0000";
+lastChange = "2025-07-03 14:45:28 +0000";
 layers = (
 {
 anchors = (
@@ -41699,7 +41699,7 @@ width = 212;
 anchors = (
 {
 name = _bottom;
-pos = (110,90);
+pos = (96,90);
 },
 {
 name = bottom;
