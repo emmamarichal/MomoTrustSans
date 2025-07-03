@@ -1,6 +1,9 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
+DisplayStrings = (
+"/nbspace"
+);
 axes = (
 {
 name = Weight;
@@ -30482,11 +30485,11 @@ KernOnName = space;
 },
 {
 glyphname = nbspace;
-lastChange = "2025-07-03 09:33:33 +0000";
+lastChange = "2025-07-03 13:48:32 +0000";
 layers = (
 {
 layerId = m002;
-width = 600;
+width = 250;
 },
 {
 layerId = m004;
@@ -30497,6 +30500,7 @@ layerId = m003;
 width = 600;
 }
 );
+metricWidth = space;
 unicode = 160;
 },
 {
