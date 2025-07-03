@@ -1,9 +1,6 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
-DisplayStrings = (
-"@"
-);
 axes = (
 {
 name = Weight;
@@ -30699,6 +30696,44 @@ nodes = (
 width = 345;
 }
 );
+},
+{
+glyphname = lineseparator;
+lastChange = "2025-07-03 09:37:46 +0000";
+layers = (
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+lastChange = "2025-07-03 09:37:46 +0000";
+layers = (
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 8233;
 },
 {
 glyphname = period;
