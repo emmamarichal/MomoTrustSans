@@ -649,7 +649,7 @@ sub N by N.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss01;
 }
 );
 tag = ss01;
@@ -662,7 +662,7 @@ sub n by n.ss02;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss02;
 }
 );
 tag = ss02;
