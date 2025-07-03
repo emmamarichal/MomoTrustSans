@@ -2,7 +2,7 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-"ĢĶĻŅȘȚģķ̦lļņșț"
+"/nbspace"
 );
 axes = (
 {
@@ -30485,7 +30485,7 @@ KernOnName = space;
 },
 {
 glyphname = nbspace;
-lastChange = "2025-07-03 13:48:32 +0000";
+lastChange = "2025-07-03 14:48:48 +0000";
 layers = (
 {
 layerId = m002;
@@ -30493,11 +30493,11 @@ width = 250;
 },
 {
 layerId = m004;
-width = 600;
+width = 250;
 },
 {
 layerId = m003;
-width = 600;
+width = 250;
 }
 );
 metricWidth = space;
