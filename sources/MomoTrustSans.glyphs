@@ -1,6 +1,21 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
+DisplayStrings = (
+"Angled Handles:
+BBCCGGGƠƠƠRRSSSæææbccdđeeegggơơơœœœpqsss2223335556668{{{@@&&&§§€€£££̛̛̛̉̉̉/horncomb.case/horncomb.case/horncomb.case/circumflexcomb_hookabovecomb/circumflexcomb_hookabovecomb/circumflexcomb_hookabovecomb ¸¸¸˛
+
+Small Curve BBox:
+rrr66˛
+
+Almost Orthogonal Lines:
+BKM/M.ss01/M.ss01 RRRWWgg/m.ss02 n3888™
+
+Bad Path Orientation:
+œ
+
+"
+);
 axes = (
 {
 name = Weight;
@@ -6497,7 +6512,7 @@ color = 6;
 glyphname = M.ss01;
 kernLeft = KO_H;
 kernRight = KO_H;
-lastChange = "2025-03-16 19:02:43 +0000";
+lastChange = "2025-07-03 09:43:10 +0000";
 layers = (
 {
 layerId = m002;
@@ -6520,8 +6535,8 @@ nodes = (
 (657,619,o),
 (723,619,cs),
 (787,619,o),
-(827,576,o),
-(827,505,cs),
+(825,576,o),
+(825,505,cs),
 (825,0,l),
 (992,0,l),
 (992,505,ls),
@@ -6570,8 +6585,8 @@ nodes = (
 (652,677,o),
 (744,677,cs),
 (833,677,o),
-(890,615,o),
-(890,513,cs),
+(889,615,o),
+(889,513,cs),
 (889,0,l),
 (990,0,l),
 (990,513,ls),
@@ -20499,7 +20514,7 @@ unicode = 109;
 {
 glyphname = m.ss02;
 kernLeft = KO_uacute;
-lastChange = "2025-03-16 19:02:43 +0000";
+lastChange = "2025-07-03 09:43:22 +0000";
 layers = (
 {
 layerId = m002;
@@ -20523,8 +20538,8 @@ nodes = (
 (587,401,o),
 (636,401,cs),
 (688,401,o),
-(719,360,o),
-(719,311,cs),
+(717,360,o),
+(717,311,cs),
 (717,0,l),
 (881,0,l),
 (881,311,ls),
@@ -20705,7 +20720,7 @@ KernOnName = m.ss02;
 glyphname = n;
 kernLeft = KO_n;
 kernRight = KO_n;
-lastChange = "2025-03-16 19:02:43 +0000";
+lastChange = "2025-07-03 09:43:30 +0000";
 layers = (
 {
 associatedMasterId = m002;
@@ -21650,7 +21665,7 @@ nodes = (
 closed = 1;
 nodes = (
 (136,0,l),
-(137,397,l),
+(136,397,l),
 (128,530,l),
 (90,530,l),
 (90,0,l)
@@ -24043,7 +24058,7 @@ unicode = 245;
 },
 {
 glyphname = oe;
-lastChange = "2025-03-16 19:04:27 +0000";
+lastChange = "2025-07-03 09:42:36 +0000";
 layers = (
 {
 layerId = m002;
