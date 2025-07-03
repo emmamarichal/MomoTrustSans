@@ -1,9 +1,6 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
-DisplayStrings = (
-"Jȷ"
-);
 axes = (
 {
 name = Weight;
@@ -562,6 +559,11 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 ";
@@ -619,13 +621,27 @@ tag = ccmp;
 {
 automatic = 1;
 code = "script latn;
-language ROM;
+language AZE;
 lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
-} locl_latn_0;
+} locl_latn_1;
 language MOL;
-lookup locl_latn_0;
+lookup locl_latn_1;
 ";
 tag = locl;
 },
@@ -18248,6 +18264,50 @@ width = 221;
 }
 );
 unicode = 239;
+},
+{
+glyphname = idotaccent;
+layers = (
+{
+layerId = m004;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-24,-220);
+ref = dotaccentcomb;
+}
+);
+width = 221;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-35,-220);
+ref = dotaccentcomb;
+}
+);
+width = 253;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-52,-220);
+ref = dotaccentcomb;
+}
+);
+width = 304;
+}
+);
 },
 {
 glyphname = idotbelow;
