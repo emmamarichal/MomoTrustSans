@@ -756,7 +756,7 @@ pos = -180;
 {
 }
 );
-name = Light;
+name = ExtraLight;
 userData = {
 GSCornerRadius = 95;
 GSOffsetHorizontal = 10;
@@ -1139,7 +1139,7 @@ pos = -180;
 {
 }
 );
-name = Bold;
+name = ExtraBold;
 userData = {
 GSCornerRadius = 95;
 GSOffsetHorizontal = 10;
@@ -44242,25 +44242,6 @@ instanceInterpolations = {
 m004 = 1;
 };
 name = Extralight;
-properties = (
-{
-key = postscriptFontName;
-value = "MomoTrustSans-Extralight";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "Momo Trust Sans Extralight";
-}
-);
-},
-{
-key = variablePostscriptFontName;
-value = "MomoTrustSans-Extralight";
-}
-);
 weightClass = 200;
 },
 {
@@ -44272,25 +44253,6 @@ m003 = 0.5;
 m004 = 0.5;
 };
 name = Light;
-properties = (
-{
-key = postscriptFontName;
-value = "MomoTrustSans-Light";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "Momo Trust Sans Light";
-}
-);
-},
-{
-key = variablePostscriptFontName;
-value = "MomoTrustSans-Light";
-}
-);
 weightClass = 300;
 },
 {
@@ -44301,29 +44263,6 @@ instanceInterpolations = {
 m003 = 1;
 };
 name = Regular;
-properties = (
-{
-key = postscriptFontName;
-value = "MomoTrustSans-Regular";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "Momo Trust Sans Regular";
-}
-);
-},
-{
-key = uniqueID;
-value = "MomoTrustSans-VF";
-},
-{
-key = variablePostscriptFontName;
-value = "MomoTrustSans-Regular";
-}
-);
 },
 {
 axesValues = (
@@ -44334,25 +44273,6 @@ m002 = 0.25;
 m003 = 0.75;
 };
 name = Medium;
-properties = (
-{
-key = postscriptFontName;
-value = "MomoTrustSans-Medium";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "Momo Trust Sans Medium";
-}
-);
-},
-{
-key = variablePostscriptFontName;
-value = "MomoTrustSans-Medium";
-}
-);
 weightClass = 500;
 },
 {
@@ -44364,25 +44284,6 @@ m002 = 0.5;
 m003 = 0.5;
 };
 name = Semibold;
-properties = (
-{
-key = postscriptFontName;
-value = "MomoTrustSans-SemiBold";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "Momo Trust Sans SemiBold";
-}
-);
-},
-{
-key = variablePostscriptFontName;
-value = "MomoTrustSans-SemiBold";
-}
-);
 weightClass = 600;
 },
 {
@@ -44394,27 +44295,7 @@ m002 = 0.75;
 m003 = 0.25;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
-properties = (
-{
-key = postscriptFontName;
-value = "MomoTrustSans-Bold";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "Momo Trust Sans Bold";
-}
-);
-},
-{
-key = variablePostscriptFontName;
-value = "MomoTrustSans-Bold";
-}
-);
 weightClass = 700;
 },
 {
@@ -44425,45 +44306,7 @@ instanceInterpolations = {
 m002 = 1;
 };
 name = ExtraBold;
-properties = (
-{
-key = postscriptFontName;
-value = "MomoTrustSans-ExtraBold";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "Momo Trust Sans ExtraBold";
-}
-);
-},
-{
-key = variablePostscriptFontName;
-value = "MomoTrustSans-ExtraBold";
-}
-);
 weightClass = 800;
-},
-{
-name = VF;
-properties = (
-{
-key = postscriptFontName;
-value = "MomoTrustSans-VF";
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = "Momo Trust Sans VF";
-}
-);
-}
-);
-type = variable;
 }
 );
 kerningLTR = {
