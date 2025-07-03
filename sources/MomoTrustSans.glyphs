@@ -1,21 +1,6 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
-DisplayStrings = (
-"Angled Handles:
-BBCCGGGƠƠƠRRSSSæææbccdđeeegggơơơœœœpqsss2223335556668{{{@@&&&§§€€£££̛̛̛̉̉̉/horncomb.case/horncomb.case/horncomb.case/circumflexcomb_hookabovecomb/circumflexcomb_hookabovecomb/circumflexcomb_hookabovecomb ¸¸¸˛
-
-Small Curve BBox:
-rrr66˛
-
-Almost Orthogonal Lines:
-BKM/M.ss01/M.ss01 RRRWWgg/m.ss02 n3888™
-
-Bad Path Orientation:
-œ
-
-"
-);
 axes = (
 {
 name = Weight;
@@ -710,11 +695,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1100;
+value = 1025;
 },
 {
 name = typoDescender;
-value = -210;
+value = -275;
 },
 {
 name = typoLineGap;
@@ -730,11 +715,11 @@ value = 554;
 },
 {
 name = hheaAscender;
-value = 1100;
+value = 1025;
 },
 {
 name = hheaDescender;
-value = -210;
+value = -275;
 },
 {
 name = strikeoutPosition;
@@ -901,11 +886,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1100;
+value = 1025;
 },
 {
 name = typoDescender;
-value = -210;
+value = -275;
 },
 {
 name = typoLineGap;
@@ -921,11 +906,11 @@ value = 554;
 },
 {
 name = hheaAscender;
-value = 1100;
+value = 1025;
 },
 {
 name = hheaDescender;
-value = -210;
+value = -275;
 },
 {
 name = strikeoutPosition;
@@ -1093,11 +1078,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1100;
+value = 1025;
 },
 {
 name = typoDescender;
-value = -210;
+value = -275;
 },
 {
 name = typoLineGap;
@@ -1113,11 +1098,11 @@ value = 554;
 },
 {
 name = hheaAscender;
-value = 1100;
+value = 1025;
 },
 {
 name = hheaDescender;
-value = -210;
+value = -275;
 },
 {
 name = strikeoutPosition;
